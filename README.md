@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there 👋, I'm Biradar Laxmi
 
-<!--
-**BiradarLaxmi-6345/BiradarLaxmi-6345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **CSE (AI & ML)** student | 📚 Pursuing **IIT Madras BS in Data Science**  
+💡 Passionate about AI, Machine Learning, and Software Development.  
+🚀 Currently learning **C, Python, Git, and GitHub basics**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 About Me
+- 🌱 **Currently learning:** Programming fundamentals, Git, and Version Control.
+- 🎯 **Goal for 2025:** Build and share my first AI/ML project.
+- 📍 From: India
+- 🛠 **Tech Stack:**  
+  - Languages: `C`, `Python` (beginner)  
+  - Tools: `Git`, `GitHub`, `VS Code`
+
+---
+
+## 📌 What I'm Working On
+- 💻 College assignments and small coding exercises.
+- 📂 Organizing my learning journey here on GitHub.
+- 🔍 Exploring open-source projects to understand real-world code.
+
+---
+
+## 📫 Connect with Me
+- 📧 Email: biradarlaxmi9363@gmail.com  
+- 💼 LinkedIn: www.linkedin.com/in/laxmi-biradar-9b5449336
+
+  
+
+
+---
+
+⭐ **Fun fact:** I started my GitHub journey just 8 days after joining college. Watch this space grow!  
