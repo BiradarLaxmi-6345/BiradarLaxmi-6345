@@ -8,7 +8,6 @@
 
 ## 🔹 About Me
 - 🌱 **Currently learning:** Programming fundamentals, Git, and Version Control.
-- 🎯 **Goal for 2025:** Build and share my first AI/ML project.
 - 📍 From: India
 - 🛠 **Tech Stack:**  
   - Languages: `C`, `Python` (beginner)  
